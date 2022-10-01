@@ -5,13 +5,13 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_it/get_it.dart';
-import 'package:kupupu/pages/simple_animations_package.dart';
+import 'package:kupuhu/src/features/screens/simple_animations_package.dart';
 
 //Services
-import '../services/http_service.dart';
+import '../../services/http_service.dart';
 
 //Model
-import '../models/app_config.dart';
+import '../../models/app_config.dart';
 
 class SplashPage extends StatefulWidget {
   final VoidCallback onInitializationComplete;
