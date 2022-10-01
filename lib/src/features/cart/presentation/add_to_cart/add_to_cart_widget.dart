@@ -1,12 +1,12 @@
 import 'dart:math';
 
-import 'package:kg_router/src/common_widgets/alert_dialogs.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/common_widgets/alert_dialogs.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/item_quantity_selector.dart';
-import 'package:kg_router/src/common_widgets/primary_button.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/features/products/domain/product.dart';
+import 'package:kupuhu/src/common_widgets/item_quantity_selector.dart';
+import 'package:kupuhu/src/common_widgets/primary_button.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/features/products/domain/product.dart';
 
 /// A widget that shows an [ItemQuantitySelector] along with a [PrimaryButton]
 /// to add the selected quantity of the item to the cart.

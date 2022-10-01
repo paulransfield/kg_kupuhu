@@ -1,9 +1,9 @@
-import 'package:kg_router/src/features/orders/domain/order.dart';
-import 'package:kg_router/src/features/orders/presentation/orders_list/order_card.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/features/orders/domain/order.dart';
+import 'package:kupuhu/src/features/orders/presentation/orders_list/order_card.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/responsive_center.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/common_widgets/responsive_center.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
 
 /// Shows the list of orders placed by the signed-in user.
 class OrdersListScreen extends StatelessWidget {

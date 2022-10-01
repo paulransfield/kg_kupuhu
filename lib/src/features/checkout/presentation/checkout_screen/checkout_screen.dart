@@ -1,7 +1,7 @@
-import 'package:kg_router/src/features/authentication/presentation/sign_in/email_password_sign_in_screen.dart';
-import 'package:kg_router/src/features/authentication/presentation/sign_in/email_password_sign_in_state.dart';
-import 'package:kg_router/src/features/checkout/presentation/payment/payment_page.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/features/authentication/presentation/sign_in/email_password_sign_in_screen.dart';
+import 'package:kupuhu/src/features/authentication/presentation/sign_in/email_password_sign_in_state.dart';
+import 'package:kupuhu/src/features/checkout/presentation/payment/payment_page.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
 
 /// The two sub-routes that are presented as part of the checkout flow.

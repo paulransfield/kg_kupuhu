@@ -1,7 +1,7 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:kg_router/src/features/authentication/data/fake_auth_repository.dart';
-import 'package:kg_router/src/features/authentication/presentation/sign_in/email_password_sign_in_state.dart';
+import 'package:kupuhu/src/features/authentication/data/fake_auth_repository.dart';
+import 'package:kupuhu/src/features/authentication/presentation/sign_in/email_password_sign_in_state.dart';
 
 class EmailPasswordSignInController
     extends StateNotifier<EmailPasswordSignInState> {

@@ -1,8 +1,8 @@
-import 'package:kg_router/src/localization/string_hardcoded.dart';
-import 'package:kg_router/src/routing/app_router.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/routing/app_router.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/primary_button.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/common_widgets/primary_button.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
 import 'package:go_router/go_router.dart';
 
 /// Placeholder widget showing a message and CTA to go back to the home screen.

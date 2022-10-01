@@ -1,7 +1,7 @@
-import 'package:kg_router/src/common_widgets/alert_dialogs.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/common_widgets/alert_dialogs.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/primary_button.dart';
+import 'package:kupuhu/src/common_widgets/primary_button.dart';
 
 /// Button used to initiate the payment flow.
 class PaymentButton extends StatelessWidget {

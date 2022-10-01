@@ -1,7 +1,7 @@
-import 'package:kg_router/src/localization/string_hardcoded.dart';
-import 'package:kg_router/src/routing/app_router.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/routing/app_router.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/features/authentication/domain/app_user.dart';
+import 'package:kupuhu/src/features/authentication/domain/app_user.dart';
 import 'package:go_router/go_router.dart';
 
 enum PopupMenuOption {

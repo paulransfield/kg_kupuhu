@@ -1,10 +1,10 @@
-import 'package:kg_router/src/features/products/presentation/product_screen/product_average_rating.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/features/products/presentation/product_screen/product_average_rating.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/custom_image.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/features/products/domain/product.dart';
-import 'package:kg_router/src/utils/currency_formatter.dart';
+import 'package:kupuhu/src/common_widgets/custom_image.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/features/products/domain/product.dart';
+import 'package:kupuhu/src/utils/currency_formatter.dart';
 
 /// Used to show a single product inside a card.
 class ProductCard extends StatelessWidget {

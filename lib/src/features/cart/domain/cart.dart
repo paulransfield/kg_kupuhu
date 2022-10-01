@@ -1,5 +1,5 @@
-import 'package:kg_router/src/features/cart/domain/item.dart';
-import 'package:kg_router/src/features/products/domain/product.dart';
+import 'package:kupuhu/src/features/cart/domain/item.dart';
+import 'package:kupuhu/src/features/products/domain/product.dart';
 
 /// Model class representing the shopping cart contents.
 class Cart {

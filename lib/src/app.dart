@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:kg_router/src/constants/kg_colors.dart' show MyColors;
-import 'package:kg_router/src/localization/string_hardcoded.dart';
-import 'package:kg_router/src/routing/app_router.dart';
+import 'package:kupuhu/src/constants/kg_colors.dart' show MyColors;
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/routing/app_router.dart';
 
 class MyApp extends ConsumerWidget {
   const MyApp({Key? key}) : super(key: key);

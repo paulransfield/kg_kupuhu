@@ -1,4 +1,4 @@
-import 'package:kg_router/src/utils/currency_formatter.dart';
+import 'package:kupuhu/src/utils/currency_formatter.dart';
 import 'package:flutter/material.dart';
 
 /// Text widget for showing the total price of the cart

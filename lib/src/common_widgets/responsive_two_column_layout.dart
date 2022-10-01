@@ -1,4 +1,4 @@
-import 'package:kg_router/src/constants/breakpoints.dart';
+import 'package:kupuhu/src/constants/breakpoints.dart';
 import 'package:flutter/material.dart';
 
 /// Responsive layout that shows two child widgets side by side if there is

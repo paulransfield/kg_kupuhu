@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
 
 /// Text button to be used as an [AppBar] action
 class ActionTextButton extends StatelessWidget {

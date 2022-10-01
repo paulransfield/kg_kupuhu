@@ -1,9 +1,9 @@
-import 'package:kg_router/src/constants/breakpoints.dart';
-import 'package:kg_router/src/features/reviews/presentation/product_reviews/product_review_card.dart';
+import 'package:kupuhu/src/constants/breakpoints.dart';
+import 'package:kupuhu/src/features/reviews/presentation/product_reviews/product_review_card.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/responsive_center.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/features/reviews/domain/review.dart';
+import 'package:kupuhu/src/common_widgets/responsive_center.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/features/reviews/domain/review.dart';
 
 /// Shows the list of reviews for a given product ID
 class ProductReviewsList extends StatelessWidget {

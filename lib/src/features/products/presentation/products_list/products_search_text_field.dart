@@ -1,4 +1,4 @@
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
 
 /// Search field used to filter products by name

@@ -1,9 +1,9 @@
-import 'package:kg_router/src/common_widgets/alert_dialogs.dart';
-import 'package:kg_router/src/features/reviews/presentation/product_reviews/product_rating_bar.dart';
+import 'package:kupuhu/src/common_widgets/alert_dialogs.dart';
+import 'package:kupuhu/src/features/reviews/presentation/product_reviews/product_rating_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/features/reviews/domain/review.dart';
-import 'package:kg_router/src/utils/date_formatter.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/features/reviews/domain/review.dart';
+import 'package:kupuhu/src/utils/date_formatter.dart';
 
 /// Simple card widget to show a product review info (score, comment, date)
 class ProductReviewCard extends StatelessWidget {

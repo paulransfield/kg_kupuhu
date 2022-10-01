@@ -1,13 +1,13 @@
-import 'package:kg_router/src/common_widgets/alert_dialogs.dart';
-import 'package:kg_router/src/features/authentication/data/fake_auth_repository.dart';
-import 'package:kg_router/src/features/authentication/presentation/account/account_screen_controller.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
-import 'package:kg_router/src/features/authentication/domain/app_user.dart';
-import 'package:kg_router/src/utils/async_value_ui.dart';
+import 'package:kupuhu/src/common_widgets/alert_dialogs.dart';
+import 'package:kupuhu/src/features/authentication/data/fake_auth_repository.dart';
+import 'package:kupuhu/src/features/authentication/presentation/account/account_screen_controller.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/features/authentication/domain/app_user.dart';
+import 'package:kupuhu/src/utils/async_value_ui.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/action_text_button.dart';
-import 'package:kg_router/src/common_widgets/responsive_center.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/common_widgets/action_text_button.dart';
+import 'package:kupuhu/src/common_widgets/responsive_center.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 /// Simple account screen showing some user info and a logout button.

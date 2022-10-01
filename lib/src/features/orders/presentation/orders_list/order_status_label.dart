@@ -1,5 +1,5 @@
-import 'package:kg_router/src/features/orders/domain/order.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/features/orders/domain/order.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
 
 /// Shows the status of the order

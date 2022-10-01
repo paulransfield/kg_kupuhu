@@ -1,12 +1,12 @@
-import 'package:kg_router/src/constants/breakpoints.dart';
-import 'package:kg_router/src/features/cart/domain/item.dart';
-import 'package:kg_router/src/features/cart/presentation/cart_total/cart_total_with_cta.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/constants/breakpoints.dart';
+import 'package:kupuhu/src/features/cart/domain/item.dart';
+import 'package:kupuhu/src/features/cart/presentation/cart_total/cart_total_with_cta.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/decorated_box_with_shadow.dart';
-import 'package:kg_router/src/common_widgets/responsive_center.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/features/not_found/empty_placeholder_widget.dart';
+import 'package:kupuhu/src/common_widgets/decorated_box_with_shadow.dart';
+import 'package:kupuhu/src/common_widgets/responsive_center.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/features/not_found/empty_placeholder_widget.dart';
 
 /// Responsive widget showing the cart items and the checkout button
 class ShoppingCartItemsBuilder extends StatelessWidget {

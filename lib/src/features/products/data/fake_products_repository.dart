@@ -1,5 +1,5 @@
-import 'package:kg_router/src/constants/test_products.dart';
-import 'package:kg_router/src/features/products/domain/product.dart';
+import 'package:kupuhu/src/constants/test_products.dart';
+import 'package:kupuhu/src/features/products/domain/product.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class FakeProductsRepository {

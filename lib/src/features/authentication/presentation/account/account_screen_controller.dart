@@ -1,6 +1,6 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import 'package:kg_router/src/features/authentication/data/fake_auth_repository.dart';
+import 'package:kupuhu/src/features/authentication/data/fake_auth_repository.dart';
 
 class AccountScreenController extends StateNotifier<AsyncValue> {
   final FakeAuthRepository authRepository;

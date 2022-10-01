@@ -1,12 +1,12 @@
-import 'package:kg_router/src/features/cart/domain/item.dart';
-import 'package:kg_router/src/features/orders/domain/order.dart';
-import 'package:kg_router/src/features/orders/presentation/orders_list/order_item_list_tile.dart';
-import 'package:kg_router/src/features/orders/presentation/orders_list/order_status_label.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/features/cart/domain/item.dart';
+import 'package:kupuhu/src/features/orders/domain/order.dart';
+import 'package:kupuhu/src/features/orders/presentation/orders_list/order_item_list_tile.dart';
+import 'package:kupuhu/src/features/orders/presentation/orders_list/order_status_label.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/utils/currency_formatter.dart';
-import 'package:kg_router/src/utils/date_formatter.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/utils/currency_formatter.dart';
+import 'package:kupuhu/src/utils/date_formatter.dart';
 
 /// Shows all the details for a given order
 class OrderCard extends StatelessWidget {

@@ -1,12 +1,12 @@
-import 'package:kg_router/src/constants/breakpoints.dart';
-import 'package:kg_router/src/features/authentication/data/fake_auth_repository.dart';
-import 'package:kg_router/src/features/products/presentation/home_app_bar/more_menu_button.dart';
-import 'package:kg_router/src/features/products/presentation/home_app_bar/shopping_cart_icon.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
-import 'package:kg_router/src/features/authentication/domain/app_user.dart';
-import 'package:kg_router/src/routing/app_router.dart';
+import 'package:kupuhu/src/constants/breakpoints.dart';
+import 'package:kupuhu/src/features/authentication/data/fake_auth_repository.dart';
+import 'package:kupuhu/src/features/products/presentation/home_app_bar/more_menu_button.dart';
+import 'package:kupuhu/src/features/products/presentation/home_app_bar/shopping_cart_icon.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/features/authentication/domain/app_user.dart';
+import 'package:kupuhu/src/routing/app_router.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/action_text_button.dart';
+import 'package:kupuhu/src/common_widgets/action_text_button.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 

@@ -1,7 +1,7 @@
-import 'package:kg_router/src/features/cart/domain/item.dart';
-import 'package:kg_router/src/features/cart/presentation/shopping_cart/shopping_cart_item.dart';
-import 'package:kg_router/src/features/cart/presentation/shopping_cart/shopping_cart_items_builder.dart';
-import 'package:kg_router/src/features/checkout/presentation/payment/payment_button.dart';
+import 'package:kupuhu/src/features/cart/domain/item.dart';
+import 'package:kupuhu/src/features/cart/presentation/shopping_cart/shopping_cart_item.dart';
+import 'package:kupuhu/src/features/cart/presentation/shopping_cart/shopping_cart_items_builder.dart';
+import 'package:kupuhu/src/features/checkout/presentation/payment/payment_button.dart';
 import 'package:flutter/material.dart';
 
 /// Payment screen showing the items in the cart (with read-only quantities) and

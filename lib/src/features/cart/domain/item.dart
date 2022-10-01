@@ -1,4 +1,4 @@
-import 'package:kg_router/src/features/products/domain/product.dart';
+import 'package:kupuhu/src/features/products/domain/product.dart';
 
 /// A product along with a quantity that can be added to an order/cart
 class Item {

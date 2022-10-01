@@ -1,9 +1,9 @@
-import 'package:kg_router/src/features/products/presentation/home_app_bar/home_app_bar.dart';
-import 'package:kg_router/src/features/products/presentation/products_list/products_grid.dart';
-import 'package:kg_router/src/features/products/presentation/products_list/products_search_text_field.dart';
+import 'package:kupuhu/src/features/products/presentation/home_app_bar/home_app_bar.dart';
+import 'package:kupuhu/src/features/products/presentation/products_list/products_grid.dart';
+import 'package:kupuhu/src/features/products/presentation/products_list/products_search_text_field.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/responsive_center.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/common_widgets/responsive_center.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
 
 import 'package:iconly/iconly.dart';
 

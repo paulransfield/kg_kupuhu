@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kg_router">
+    package="com.example.kupuhu">
    <application
-        android:label="kg_router"
+        android:label="kupuhu"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

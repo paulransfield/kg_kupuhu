@@ -1,12 +1,12 @@
-import 'package:kg_router/src/common_widgets/alert_dialogs.dart';
-import 'package:kg_router/src/constants/breakpoints.dart';
-import 'package:kg_router/src/features/reviews/presentation/product_reviews/product_rating_bar.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/common_widgets/alert_dialogs.dart';
+import 'package:kupuhu/src/constants/breakpoints.dart';
+import 'package:kupuhu/src/features/reviews/presentation/product_reviews/product_rating_bar.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/common_widgets/responsive_center.dart';
-import 'package:kg_router/src/common_widgets/primary_button.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/features/reviews/domain/review.dart';
+import 'package:kupuhu/src/common_widgets/responsive_center.dart';
+import 'package:kupuhu/src/common_widgets/primary_button.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/features/reviews/domain/review.dart';
 
 class LeaveReviewScreen extends StatelessWidget {
   const LeaveReviewScreen({Key? key, required this.productId})

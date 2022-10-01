@@ -1,4 +1,4 @@
-import 'package:kg_router/src/common_widgets/error_message_widget.dart';
+import 'package:kupuhu/src/common_widgets/error_message_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

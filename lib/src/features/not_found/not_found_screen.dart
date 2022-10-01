@@ -1,6 +1,6 @@
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/features/not_found/empty_placeholder_widget.dart';
+import 'package:kupuhu/src/features/not_found/empty_placeholder_widget.dart';
 
 /// Simple not found screen used for 404 errors (page not found on web)
 class NotFoundScreen extends StatelessWidget {

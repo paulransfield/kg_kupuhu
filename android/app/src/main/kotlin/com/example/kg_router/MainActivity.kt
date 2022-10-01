@@ -1,4 +1,4 @@
-package com.example.kg_router
+package com.example.kupuhu
 
 import io.flutter.embedding.android.FlutterActivity
 

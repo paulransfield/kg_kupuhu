@@ -1,6 +1,6 @@
-import 'package:kg_router/src/routing/app_router.dart';
+import 'package:kupuhu/src/routing/app_router.dart';
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
 import 'package:go_router/go_router.dart';
 
 /// Shopping cart icon with items count badge

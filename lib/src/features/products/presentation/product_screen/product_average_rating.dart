@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:kg_router/src/constants/app_sizes.dart';
-import 'package:kg_router/src/features/products/domain/product.dart';
+import 'package:kupuhu/src/constants/app_sizes.dart';
+import 'package:kupuhu/src/features/products/domain/product.dart';
 
-import 'package:kg_router/src/constants/kg_colors.dart' show MyColors;
+import 'package:kupuhu/src/constants/kg_colors.dart' show MyColors;
 
 /// Shows the product average rating score and the number of ratings
 class ProductAverageRating extends StatelessWidget {

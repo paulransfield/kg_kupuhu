@@ -4,8 +4,8 @@ import 'package:flutter/services.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 
-import 'package:kg_router/src/app.dart';
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/app.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 
 void main() async {
   // * For more info on error handling, see:

@@ -1,5 +1,5 @@
-import 'package:kg_router/src/features/authentication/domain/app_user.dart';
-import 'package:kg_router/src/utils/in_memory_store.dart';
+import 'package:kupuhu/src/features/authentication/domain/app_user.dart';
+import 'package:kupuhu/src/utils/in_memory_store.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class FakeAuthRepository {

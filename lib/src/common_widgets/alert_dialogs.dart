@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:kg_router/src/localization/string_hardcoded.dart';
+import 'package:kupuhu/src/localization/string_hardcoded.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

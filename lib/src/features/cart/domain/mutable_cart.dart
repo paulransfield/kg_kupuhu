@@ -1,6 +1,6 @@
-import 'package:kg_router/src/features/cart/domain/cart.dart';
-import 'package:kg_router/src/features/cart/domain/item.dart';
-import 'package:kg_router/src/features/products/domain/product.dart';
+import 'package:kupuhu/src/features/cart/domain/cart.dart';
+import 'package:kupuhu/src/features/cart/domain/item.dart';
+import 'package:kupuhu/src/features/products/domain/product.dart';
 
 /// Helper extension used to mutate the items in the shopping cart.
 extension MutableCart on Cart {

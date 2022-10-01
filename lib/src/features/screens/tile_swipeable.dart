@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:swipeable_tile/swipeable_tile.dart';
 import 'package:vibration/vibration.dart';
 
-import 'package:kg_router/src/constants/kg_colors.dart' show MyColors;
+import 'package:kupuhu/src/constants/kg_colors.dart' show MyColors;
 
 class Learn2Screen extends StatefulWidget {
   const Learn2Screen({Key? key}) : super(key: key);
